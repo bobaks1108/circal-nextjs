@@ -4,8 +4,8 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = '[Your Name]'
-export const siteTitle = 'Next.js Sample Website'
+const name = 'CirCal'
+export const siteTitle = 'Circular year view calendar/planner.'
 
 export default function Layout({ children, home }) {
   return (
@@ -14,7 +14,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Learn how to build a personal website using Next.js"
+          content="Year-to-view calendar planner/organiser. With events and statistics. makes it easy to see where you are and visualize time based data."
         />
         <meta
           property="og:image"
