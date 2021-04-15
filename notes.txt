@@ -1,0 +1,26 @@
+Initialized a git repository.
+
+Success! Created circal at C:\dev\circal
+Inside that directory, you can run several commands:
+
+  npm run dev
+    Starts the development server.
+
+  npm run build
+    Builds the app for production.
+
+  npm start
+    Runs the built app in production mode.
+
+We suggest that you begin by typing:
+
+  cd circal
+  npm run dev
+
+
+to do work through 
+Deploying Your Next.js App
+change to events / calendar
+add year circle svg
+
+
